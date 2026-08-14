@@ -269,7 +269,7 @@ A organização dos scripts, os comentários e os cabeçalhos das consultas fora
 
 ## 👤 Autor
 
-**Wellington**
+**Wellington Lima**
 
 Projeto desenvolvido no contexto da formação em **Análise de Dados / SQL**, utilizando dados públicos da Polícia Rodoviária Federal.
 
