@@ -1245,3 +1245,38 @@ técnicas de modelagem.
 ## 🔗 Repositório
 
 https://github.com/Wellington-datastrategy/Modulo3_AD_PRF2025_SQL
+
+# 🦆 Unidade 3 — Atividade 1: Importar e Validar a Base
+
+A Atividade 1 introduziu o DuckDB no fluxo de análise da base PRF 2025.
+
+## Objetivo
+
+Importar a base de acidentes da PRF 2025 para o DuckDB, validar sua estrutura e confirmar a quantidade de registros.
+
+## Solução
+
+Foi criada a tabela:
+
+`acidentes_prf_2025`
+
+no banco:
+
+`proj_prf_sql.duckdb`
+
+### Validação
+
+- **Registros importados:** 72.529
+- **Campos identificados no `DESCRIBE`:** 30
+- **Tabela:** `acidentes_prf_2025`
+
+### Importação
+
+A primeira tentativa utilizando `read_csv_auto` apresentou erro de codificação UTF-8.
+
+A importação foi corrigida utilizando:
+
+```sql
+encoding='latin-1'
+
+
