@@ -1,0 +1,18 @@
+tipo_acidente,total_acidentes,total_mortos,acidentes_fatais,perc_fatais
+Incêndio,1771,0,0,0.0
+Queda de ocupante de veículo,3450,89,87,2.52
+Capotamento,1373,74,63,4.59
+Sinistro pessoal de trânsito,7,0,0,0.0
+Tombamento,6351,293,268,4.22
+Colisão lateral mesmo sentido,7885,228,212,2.69
+Colisão traseira,14360,683,619,4.31
+Colisão com objeto,5109,323,297,5.81
+Engavetamento,1233,34,28,2.27
+Colisão lateral sentido oposto,2152,255,212,9.85
+Derramamento de carga,107,3,3,2.8
+Colisão frontal,4739,1863,1396,29.46
+Saída de leito carroçável,10209,700,605,5.93
+Eventos atípicos,287,24,23,8.01
+Colisão transversal,9306,481,427,4.59
+Atropelamento de Pedestre,3057,919,902,29.51
+Atropelamento de Animal,1133,74,68,6.0
